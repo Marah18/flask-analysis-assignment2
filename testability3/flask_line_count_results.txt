@@ -1,0 +1,10 @@
+All lines:
+Production: 9,199
+Tests: 7,820
+Ratio: 0.85 (85.01%)
+
+Filtered:
+Production: 6,744
+Tests: 5,607
+Ratio: 0.83 (83.14%)
+
