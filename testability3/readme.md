@@ -27,5 +27,5 @@ This folder contains Python scripts for analyzing the testability of Flask 3.1.3
 
 Each results file is generated when its corresponding Python script is executed.
 
-## Note: all measurements were performed directly in the terminal. Later, Python scripts were added to the Flask repository in a new file named testability to save the results and demonstrate how the measurements could be generated and reproduced within the repository. The original approach and results remain the same; the additional files simply make the process easier to reproduce and preserve the output for reference. 
+Note: all measurements were performed directly in the terminal. Later, Python scripts were added to the Flask repository in a new file named testability to save the results and demonstrate how the measurements could be generated and reproduced within the repository. The original approach and results remain the same; the additional files simply make the process easier to reproduce and preserve the output for reference. 
 
